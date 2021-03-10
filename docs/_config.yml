@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Akka HTTP SAML & PAC4J
+description: Akka HTTP SAML authentication using PAC4J
+show_downloads: "false"
