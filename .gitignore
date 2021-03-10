@@ -5,3 +5,5 @@ target
 src/main/resources/keystore.jks
 src/main/resources/idpssodescriptor.xml
 src/main/resources/sp-metadata.xml
+
+resource\:sp-metadata.xml # temp file
