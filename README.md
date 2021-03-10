@@ -4,6 +4,10 @@ Demonstrate how to secure a Scala/Akka HTTP webapp using [akka-http-pac4j](https
 
 > This is inspired from [akka-http-pac4j-demo](https://github.com/vidma/akka-http-pac4j-demo).
 
+## Usage
+
+See [documentation](https://cchantep.github.io/akka-pac4j-saml-keycloak-demo/)
+
 ## Build
 
     sbt run
