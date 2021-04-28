@@ -68,9 +68,11 @@ The sources of the demo Webapp can be checked out from [GitHub](https://github.c
 
 The previous descriptors and keystore specifying the authorized SAML client must now be configure in the Webapp.
 
+<!-- TODO: Remove
 First the `saml-sp-metadata.xml` must be copied to `src/main/resources/sp-metadata.xml` in the application sources.
+-->
 
-Then the `keystore.jks` must be copied to `src/main/resources/keystore.jks`.
+First the `keystore.jks` must be copied to `src/main/resources/keystore.jks`.
 
 Finally the `idpssodescriptor.xml` must be copied to `src/main/resources/idpssodescriptor.xml`.
 
